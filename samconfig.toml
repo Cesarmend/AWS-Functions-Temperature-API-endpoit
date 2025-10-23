@@ -1,0 +1,12 @@
+version = 0.1
+
+[default.deploy.parameters]
+stack_name = "live-api"
+resolve_s3 = true
+s3_prefix = "live-api"
+capabilities = "CAPABILITY_IAM"
+parameter_overrides = "SecretName=\"api-key\""
+image_repositories = []
+
+[default.global.parameters]
+region = "Central"
