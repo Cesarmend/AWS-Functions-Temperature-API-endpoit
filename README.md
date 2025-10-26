@@ -19,7 +19,8 @@ These two AWS services pair nicely to build lightweight, serverless workflows. *
 <img width="1394" height="428" alt="image" src="https://github.com/user-attachments/assets/b2a4fed5-a86f-4a09-b0ce-bf327f00c7a1" />
 
 ## API DEPLOY
-<img width="434" height="560" alt="image" src="https://github.com/user-attachments/assets/f51868c1-5ebb-4b67-bb3e-666d248ae0bd" />
+<img width="434" height="560" alt="image" src="https://github.com/user-attachments/assets/f51868c1-5ebb-4b67-bb3e-666d248ae0bd" /><img width="411" height="651" alt="image" src="https://github.com/user-attachments/assets/c1c4648b-8372-4d34-ac0e-18e1b430762f" />
+
 
 
 ## 🚀 Road followed:
